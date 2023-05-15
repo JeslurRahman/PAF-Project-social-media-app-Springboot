@@ -1,0 +1,29 @@
+.update-form-content {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.update-form-item {
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.update-form-item TextField {
+}
+
+.update-form-title {
+  margin-top: 10px;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.update-form-button {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  gap: 10px;
+  margin-left: 16px;
+}

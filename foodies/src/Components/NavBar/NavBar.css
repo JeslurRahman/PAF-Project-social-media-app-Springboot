@@ -1,0 +1,27 @@
+.navbar__barContent {
+  height: 76px;
+  background-color: #9fbaf3;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.navbar_logo {
+  margin-top: 10px;
+}
+.navbar__img {
+  margin: 15px 10px;
+  margin-top: 29px;
+}
+.navbar__searchBar {
+  height: 30px;
+  width: 350px;
+  margin-top: 25px;
+  border: 1px solid #000000;
+  text-align: center;
+  background-color: #fafafa;
+  border-radius: 5px;
+}
+
+.logoutBTN {
+  margin-top: 20px;
+}
